@@ -3,6 +3,8 @@ MIDI DRSSTC Interrupter Test Version
   
 @ Maker Faire Tokyo 2015  
   
+https://www.youtube.com/watch?v=bqgJYT0VFcQ
+  
   
 # Arduino Code  
 arduino_test/arduino_test.ino  
