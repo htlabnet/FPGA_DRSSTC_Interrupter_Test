@@ -11,4 +11,7 @@ arduino_test/arduino_test.ino
 # FPGA Code
 Using DE0  
 DRSSTC_MIDI/DRSSTC_MIDI.v  
+  
 
+# Pictures
+Pictures/
